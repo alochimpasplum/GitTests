@@ -10,8 +10,9 @@ def print_hi(name):
 
 
 def test_func1():
-    print("hello  main")
-
+    print("hello one")
+    #que majo el jefe
+    print("hello two")
 
 # test1 com
 
